@@ -22,7 +22,8 @@ SlidelyTask is a Windows Forms application designed to demonstrate a variety of 
 - .NET SDK: Ensure you have the latest .NET SDK installed. You can download it from [here](https://dotnet.microsoft.com/download/dotnet).
 - Visual Studio: Recommended to use Visual Studio for development and debugging. Download it from [here](https://visualstudio.microsoft.com/).
   
-Steps to run:
+## Steps to run:
+
 Make sure that the backend server is running(Can find the backend repo in my profile..)
 1. Clone the Repository:
     ```sh
@@ -41,6 +42,3 @@ Make sure that the backend server is running(Can find the backend repo in my pro
 4. Run the Application:
     - Press `F5` or select `Debug` > `Start Debugging` to run the application.
   
-# Screenshots
-![Screenshot 1](C:/Users/srini/OneDrive/Pictures/Screenshots/slidelyss1.png)
-![Screenshot 2](C:/Users/srini/OneDrive/Pictures/Screenshots/slidelyss22.png)
