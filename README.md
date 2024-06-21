@@ -42,5 +42,5 @@ Make sure that the backend server is running(Can find the backend repo in my pro
     - Press `F5` or select `Debug` > `Start Debugging` to run the application.
   
 # Screenshots
-![Screenshot 1](C:\Users\srini\OneDrive\Pictures\Screenshots\slidelyss1.png)
-![Screenshot 2](C:\Users\srini\OneDrive\Pictures\Screenshots\slidelyss22.png)
+![Screenshot 1](C:/Users/srini/OneDrive/Pictures/Screenshots/slidelyss1.png)
+![Screenshot 2](C:/Users/srini/OneDrive/Pictures/Screenshots/slidelyss22.png)
